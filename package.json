@@ -1,0 +1,23 @@
+{
+  "name": "gulp-sass-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OksanaCoder/gulp-sass-proj.git"
+  },
+  "author": "Ksena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OksanaCoder/gulp-sass-proj/issues"
+  },
+  "homepage": "https://github.com/OksanaCoder/gulp-sass-proj#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
